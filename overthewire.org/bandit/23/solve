@@ -1,1 +1,1 @@
-echo "helloworld" > pass
+nc 127.0.0.1 9001 < /etc/bandit_pass/bandit24
