@@ -114,6 +114,8 @@ Login into server
 #### Level 30
 * git clone ssh://bandit29-git@localhost/home/bandit29-git/repo
 * find . -type f | grep -iR "password"
-
+* git branch -r
+* git checkout dev
+* 5b90576bedb2cc04c86a9e924ce42faf
 
 
