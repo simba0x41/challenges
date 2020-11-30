@@ -50,7 +50,7 @@
 
 #### Level15
 >	 sqlmap -r r.req -p password
->	 " or "1"="1
+*	 " or "1"="1
 * AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
 
 #### Level16
