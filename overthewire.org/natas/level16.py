@@ -20,8 +20,12 @@ while(i<32):
 
         content = re.findall('<pre>\n(.*)\n</pre>',response.text)
         if (content):
-            print ("[-] not found")
+            print ("[-] Letter not found.: " + str(l))
         else:
             key = key + l
-            print("[+] Letter " + l + " found. Key: " + str(key))
+            print("[+] Letter found, Key: " + str(key))
+            break
+    print "[+] Contador: " + str(i)
     i=i+1
+
+print "[+] Key Complete: " + str(key)
