@@ -72,3 +72,11 @@
 
 #### Level21
 * IFekPyrQXftziDEsUr3x21sYuahypdgJ
+
+#### Level22
+* La pagina1 no tiene la cookie con la key admin. Se modifica la cookie en la pagina2 con el parametro vulnerable y despues se reemplaza la cookie en la pagina1.
+* chG9fbe1Tq2eWVMgjYYD1MsfIvN461kJ
+
+#### Level23
+* D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE
+
