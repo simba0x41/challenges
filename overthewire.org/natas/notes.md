@@ -78,5 +78,8 @@
 * chG9fbe1Tq2eWVMgjYYD1MsfIvN461kJ
 
 #### Level23
+* payload "passwd=11iloveyou"
 * D0vlad33nQF0Hz2EP255TP5wSW9ZsRSE
 
+#### Level24
+* OsRmXFguozKpTZZ5X14zNO43379LZveg
