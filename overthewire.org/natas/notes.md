@@ -93,3 +93,24 @@
 
 #### Level27
 * 55TBjpPZUUJgVP5b3BnbG6ON9uDPVzCJ
+
+#### Level28
+* JWwR438wkgTsNKBbcJoowyysdM82YjeF
+
+#### Level29
+* airooCaiseiyee8he8xongien9euhe8b
+
+#### Level30
+* wie9iexae0Daihohv8vuu3cei9wahf0e
+
+#### Level31
+* hay7aecuungiuKaezuathuk9biin0pu1
+
+### Level32
+* The Perl Jam 2
+>   -----------------------------416450785040312578442700592
+>   Content-Disposition: form-data; name="file";
+>   Content-Type: text/plain
+
+>   ARGV
+* no1vohsheCaiv3ieH4em1ahchisainge
